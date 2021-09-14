@@ -1,2 +1,2 @@
 # Projects-
-Some of the projects I performed in my coding journey at University
+Clinet server application focusing on network protocols such as UDP and TCP. 
